@@ -1,0 +1,31 @@
+
+      .header {
+        display: flex;
+        justify-content: space-between;
+        padding: 20px;
+        background-color: #333;
+        color: #fff;
+      }
+    
+      .main-content {
+        padding: 20px;
+        background-image: url("girlBack.jpg");
+        background-size: cover;
+        background-position: center;
+        position: absolute;
+        top: 50px;
+        bottom: 1px;
+        left: 0;
+        right: 0;
+      }
+    
+      .footer {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        text-align: center;
+        padding: 20px;
+        background-color: #333;
+        color: #fff;
+      }

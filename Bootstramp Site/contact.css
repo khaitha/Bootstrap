@@ -1,0 +1,28 @@
+
+      .header {
+        display: flex;
+        justify-content: space-between;
+        padding: 20px;
+        background-color: #333;
+        color: #fff;
+      }
+
+      .main-content {
+        padding: 20px;
+      }
+
+      .footer {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        text-align: center;
+        padding: 20px;
+        background-color: #333;
+        color: #fff;
+      }
+      .form-group{
+        width: 500px;
+        margin: auto;
+        padding: 20x;
+      }
